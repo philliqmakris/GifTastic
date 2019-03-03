@@ -1,0 +1,25 @@
+body {
+    
+    text-align: center !important;
+    background-color: rgb(61, 0, 0);
+    color: white;
+    
+}
+
+button {
+    margin: 30px;
+}
+
+.jumbotron {
+    background-color: rgb(49, 46, 46);
+    color: rgb(255, 255, 255);
+}
+
+#topicInput {
+    
+}
+
+footer {
+    color: rgb(65, 0, 0);
+}
+
